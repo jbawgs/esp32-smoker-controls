@@ -1,0 +1,26 @@
+//esp32/pidparams
+{
+    "aggressiveKP": 4.00,
+    "aggressiveKI": 0.2,
+    "aggressiveKD": 1,
+    "conservativeKP": 1.5,
+    "conservativeKI": 0.2,
+    "conservativeKD": 0.5,
+}
+
+{
+    "st": 123.43,
+    "p1": 345.1231,
+    "p2": 1231.45,
+    "t": 250,
+    "cn": "words",
+    "kp": 1.44,
+    "ki": 0.023,
+    "kd": 1.003,
+    "aO": false,
+    "fO": false,
+    "iO": false,
+    "u":0.15,
+    "uMin":0.15,
+    "uMax":1.00
+}
